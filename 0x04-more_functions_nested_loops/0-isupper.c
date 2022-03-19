@@ -1,20 +1,16 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
- * main - check the code.
- *
- * Return: Always 0.
+ * _isupper - checks for uppercase character
+  @c: int type number to check
+ * Return: 0 or 1
  */
-int main(void)
-{
-	char c;
 
-	for (c = 'A'; c =< 'Z' c++)
+int _isupper(int c)
+{
+	if (c > 64 && c < 91)
 	{
 		return (1);
-		for (c = 'a'; c =< 'z'; c++;)
-		{
-			return (0);
-		}
 	}
+	return (0);
+}
