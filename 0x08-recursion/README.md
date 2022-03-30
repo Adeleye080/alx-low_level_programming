@@ -1,3 +1,3 @@
-Recursion
+# recursor
 
 tasks on alx recursion projection
