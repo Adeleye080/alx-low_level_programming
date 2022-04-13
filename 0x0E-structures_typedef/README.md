@@ -1,0 +1,1 @@
+# structures & typeofdef in c
