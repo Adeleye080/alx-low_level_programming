@@ -1,0 +1,3 @@
+# ignore all files that start with test-
+test
+test-*
