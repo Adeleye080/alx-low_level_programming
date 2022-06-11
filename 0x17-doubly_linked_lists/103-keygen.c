@@ -22,7 +22,7 @@ int f4(char *usrn, int len)
 	{
 		if (ch < usrn[vch])
 			ch = usrn[vch];
-			vch += 1;
+		vch += 1;
 	}
 
 	srand(ch ^ 14);
