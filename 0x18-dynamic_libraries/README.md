@@ -28,10 +28,10 @@ In this project, learned about using dynamic libraries in C, including how to cr
 		* `char *_strstr(char *haystack, char *needle);`
 	* main.h: Header file containing the prototypes of all functions included in `libdynamic.so`.
 
-* 1. Without libraries what have we? We have no past and no future
+* __1. Without libraries what have we? We have no past and no future*__
 
 1-create\_dynamic\_lib.sh: Bash script that creates a dynamic library called `liball.so` from all the `.c` files in the current directory.
-*  2. Let's call C functions from Python
+* __2. Let's call C functions from Python__
 
 	* 100-operations.so: C dynamic library containing basic C mathematical operation functions that can be called from Python.
 	* Includes:
