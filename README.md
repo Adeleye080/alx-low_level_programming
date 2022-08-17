@@ -15,8 +15,6 @@
 
 ---
 
-- C is fun but its not that easy, so I have some [notes](./notes.md) that will actually show you the journey and thought process.
-
 ## Resource
 
 - C [Books and PDF's](./references) to check out and use as a reference.
