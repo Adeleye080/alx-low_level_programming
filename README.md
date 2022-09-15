@@ -44,6 +44,7 @@
 - [0x14](./0x14-bit_manipulation) : Bit manipulation.
 - [0x15](./0x15-file_io) : File I/O.
 - [0x1A](./0x1A-hash_tables) : Hash tables
+- [0x1C](./0x1C-makefiles) : Makefiles
 
 ---
 
