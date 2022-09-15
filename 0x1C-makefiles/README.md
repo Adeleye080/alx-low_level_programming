@@ -2,7 +2,7 @@
 
 In this project, I practiced writing Makefiles.
 
-![makefile](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/273/giphy-2.gif)
+![makefile](./images/makefile.gif)
 
 ## Tests :heavy_check_mark:
 
