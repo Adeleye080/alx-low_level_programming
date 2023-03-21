@@ -45,6 +45,7 @@
 - [0x15](./0x15-file_io) : File I/O.
 - [0x1A](./0x1A-hash_tables) : Hash tables
 - [0x1C](./0x1C-makefiles) : Makefiles
+- [0x1E](./0x1E-search_algorithms) : Search Algorithms
 
 ---
 
@@ -52,9 +53,10 @@
 - Ajiboye Adeleye
     - <a href="https://github.com/Adeleye080">Github</a>
     - <a href="https://www.linkedin.com/in/ajiboye-adeleye-b561a7211/">LinkedIn</a>
-    - <a href="https://ajiboyeadeleye080@gmail.com">e-mail</a>
+    - <a href="mailto:ajiboyeadeleye080@gmail.com">e-mail</a>
+    - <a href="https://twitter.com/AdeleyeAjiboye">Twitter</a>
         
 
 ---
 ### Acknowledgements  :pray:
-All of the work in this project was conducted as part of the ALX-SE program's curriculum. ALX Africa is an **ALG** online full-stack software engineering school that uses project-based peer learning to educate students for careers in the IT industry. Visit this <a href="https://www.alxafrica.com/software-engineering-2022">website</a> for further information.
+All of the work in this project was conducted as part of the ALX-SE program's curriculum. ALX Africa is an **ALG** online full-stack software engineering school that uses project-based peer learning to educate students for careers in the IT industry. Visit this <a href="https://www.alxafrica.com/software-engineering">website</a> for further information.
