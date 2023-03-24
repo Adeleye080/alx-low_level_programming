@@ -1,6 +1,5 @@
 /*
  * File: 4-print_most_numbers.c
- * Auth: Suara Ayomide
  */
 
 #include "main.h"
