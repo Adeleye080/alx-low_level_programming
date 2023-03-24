@@ -1,6 +1,5 @@
 /*
  * File: 0-isupper.c
- * Auth: Suara Ayomide
  */
 
 #include "main.h"
